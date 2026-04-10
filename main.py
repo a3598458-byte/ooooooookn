@@ -10,7 +10,7 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, ReplyKeyboardRemo
 BOT_TOKEN = os.getenv("8717809394:AAFP5U65HBRkDdWF8O77S2pBNsETG87EIUU")
 OWNER_ID = 8409147278
 
-bot = Bot(token=BOT_TOKEN)
+bot = Bot(token=8717809394:AAFP5U65HBRkDdWF8O77S2pBNsETG87EIUU)
 storage = MemoryStorage()
 dp = Dispatcher(storage=storage)
 
